@@ -76,7 +76,7 @@
     "express-livereload": "^0",
     "mversion": "^1",
     "nodemon": "^1",
-    "pre-commit": "^1",
+    "pre-commit": "^1.1.2",
     "requirejs": "^2.1.20"
   },
   "commented_out": {

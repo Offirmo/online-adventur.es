@@ -63,7 +63,7 @@
     "primus": "~4.0.1",
     "response-time": "~2.3",
     "rx": "~4.0.6",
-    "serve-favicon": "~2.3",
+    "serve-favicon": "~2.3.0",
     "serve-index": "~1.7",
     "serve-static": "~1.10.0",
     "simplyconfig": "~0.1.0",

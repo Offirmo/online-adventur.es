@@ -78,7 +78,7 @@
     "nodemon": "^1.8.1",
     "pre-commit": "^1",
     "requirejs": "^2.1.22",
-    "shipit-cli": "^1.4.0",
+    "shipit-cli": "^1.4.1",
     "shipit-deploy": "^2.0.0",
     "shipit-npm": "^0.2.0",
     "shipit-nvm": "0.0.6",
